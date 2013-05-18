@@ -5,14 +5,15 @@ The core idea with this updated version is to make it easier to construct & prog
 
 
 ##The Ingredients##
-*ATMega32u4
-*BQ24090
-*LT1935
-*LMX2433
-*ROS-1300+
-*ROS-2700-1819+
-*GALI-84+
-*MIC2506
+* ATMega32u4
+* BQ24090
+* LT1935
+* LMX2433
+* ROS-1300+
+* ROS-2700-1819+
+* GALI-84+
+* MIC2506
+
 <!--- Add links to datasheets -->
 
 ##Licence##
