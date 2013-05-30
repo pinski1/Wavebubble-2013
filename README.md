@@ -23,6 +23,8 @@ The full list of parts required will be listed in the Bill of Materials (BoM) in
 ###Build Instructions###
 There are none at present. However typical surface mount guidelines apply, start with the smallest pitch devices and finish with the larger devices. The Wavebubble 2013 is designed as a single sided board so it should be possible to solder in a reflow oven.
 
+##Using One##
+*to do*
 
 ##Support##
 Try the Arduino [forums](http://forum.arduino.cc/) for problems relating to programming and burning the bootloader.
@@ -34,3 +36,5 @@ Thanks to Lady Ada for the original design as well as the regular posters in the
 
 ##Licence##
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Wavebubble 2013</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+This project is an [Open Source Hardware Project](http://www.oshwa.org/definition/).
